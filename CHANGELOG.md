@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.2
+* bump deps to support last analyzer v6
+* require minimum sdk >=3.10.8
+
 ## 0.4.1
 * fix compilation error
 
